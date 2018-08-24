@@ -659,8 +659,6 @@ a{
     position: absolute;
     top: 0;
     left: 1226px;
-    transition: all .8s linear;
-    z-index: 10;
 }
 .banner-picture li a{
     width:100%;
